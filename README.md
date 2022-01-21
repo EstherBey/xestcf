@@ -1,4 +1,4 @@
-# Merhaba, www.xest.cf'nin orjinal websitesidir.
+# Merhaba, www.xest.cf 'nin orjinal websitesidir.
 # Sahibi Tuna olup yayınlanmış windows 10 görnümlü build'dir.
 # Kendini kodlamada geliştirmek isteyenlere özel paylaşılmıştır.
 # Yasa dışı kullanımından kullanan şahıs sorumludur.
